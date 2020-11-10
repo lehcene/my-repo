@@ -15,7 +15,7 @@ module:
     - source: exampleSite/static/images
       target: static/images
 summaryLength: '10'
-paginate: 6
+paginate: '6'
 outputs:
   home:
   - HTML
@@ -69,8 +69,6 @@ params:
     URL: "#"
 menu:
   main:
-  - name: ''
-    weight: 3
   - URL: contact
     name: Contact
     weight: 2
