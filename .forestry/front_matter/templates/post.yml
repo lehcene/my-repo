@@ -26,5 +26,12 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
+- name: how_to_start
+  type: blocks
+  label: How to start
+  template_types: []
+  config:
+    min: 
+    max: 
 pages:
 - content/lqlqlqlq.md
