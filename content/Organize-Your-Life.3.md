@@ -1,16 +1,15 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-4.jpg"
-categories: 
-  - "Article"
+title: Organize Your Life With 10 Simple rule
+date: 2019-05-14 08:46:10 Z
+description: This is meta description
+type: featured
+image: images/featured-post/post-4.jpg
+categories:
+- Article
 tags:
-  - "Photos"
-  - "Article"
+- Photos
+- Article
 ---
-
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex

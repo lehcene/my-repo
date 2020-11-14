@@ -1,14 +1,14 @@
 ---
-title: "Charming Evening Field"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "post"
-image: "images/masonary-post/post-8.jpg"
-categories: 
-  - "Food"
+title: Charming Evening Field
+date: 2019-05-14 08:46:10 Z
+description: This is meta description
+type: post
+image: images/masonary-post/post-8.jpg
+categories:
+- Food
 tags:
-  - "Photos"
-  - "Food"
+- Photos
+- Food
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
